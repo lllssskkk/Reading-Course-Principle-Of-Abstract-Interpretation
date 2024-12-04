@@ -2,7 +2,7 @@
 
 Spring term 2025, study period 4(?), 7.5 credits
 
-* For master students, this is an instance of *Research-oriented course in Computer Science and Engineering* (Chalmers: [DAT235](https://www.student.chalmers.se/sp/course?course_id=36287), GU: [DIT577](https://kursplaner.gu.se/pdf/kurs/en/DIT577)).
+* ~~For master students, this is an instance of *Research-oriented course in Computer Science and Engineering* (Chalmers: [DAT235](https://www.student.chalmers.se/sp/course?course_id=36287), GU: [DIT577](https://kursplaner.gu.se/pdf/kurs/en/DIT577))~~.
 * PhD students can take this course as a PhD course.
 
 **Note**.
@@ -17,32 +17,32 @@ Therefore, you must have the motivation and capacity to digest material without 
 
 ## Purpose
 
-Homotopy type theory is a young area at the intersection of computer science, mathematical logic, homotopy theory.
+~~Homotopy type theory is a young area at the intersection of computer science, mathematical logic, homotopy theory.
 It is based on the discovery of rich higher structure in the identity type of Martin-Löf type theory.
 This relates to homotopy theory, an area of mathematics.
 Homotopy type theory can serve as a constructive logical foundation with powerful extensionality principles ("when are two elements of a given type equal?").
-It is also an internal language for higher toposes, a kind of mathematical objects useful in certain areas of modern mathematics.
+It is also an internal language for higher toposes, a kind of mathematical objects useful in certain areas of modern mathematics. ~~ 
 
 This reading course serves as an introduction to this area.
 After completing this course, you will be able to:
 
-* explain the basic concepts of homotopy type theory,
-* reason in homotopy type theory on a formal and informal level,
-* spot faults in logical deductions,
-* characterize the identity types of concretely given types,
-* classify types according to their truncation level,
-* manipulate higher inductive types,
-* translate between the different perspectives of univalent mathematics on mathematical objects (for example, abstract versus concrete groups),
+* ~~explain the basic concepts of homotopy type theory,~~
+* ~~reason in homotopy type theory on a formal and informal level,~~
+* ~~spot faults in logical deductions,~~
+* ~~characterize the identity types of concretely given types,~~
+* ~~classify types according to their truncation level,~~
+* ~~manipulate higher inductive types,~~
+* ~~translate between the different perspectives of univalent mathematics on mathematical objects (for example, abstract versus concrete groups),~~
 
 ## Prerequisites
 
 For master students:
-* The prerequesites of DAT235/DIT577 apply.
-* You must have passed DAT350/DIT235 *Types for programs and proofs*.
+* ~~The prerequesites of DAT235/DIT577 apply.~~
+* ~~You must have passed DAT350/DIT235 *Types for programs and proofs*.~~
 
-  Alternatively, you must have documented knowledge in category theory.
-  If you have not seen type theories before, it may take you extra effort at the beginning of the course to become familiar with these kinds of logical systems.
-  Chapter I (particularly Sections 1–4) of the course book can bring you up to speed.
+  ~~Alternatively, you must have documented knowledge in category theory.~~
+  ~~If you have not seen type theories before, it may take you extra effort at the beginning of the course to become familiar with these kinds of logical systems.~~
+  ~~Chapter I (particularly Sections 1–4) of the course book can bring you up to speed.~~
 
 For PhD students:
 * Contact the course-responsible teacher with your background.
